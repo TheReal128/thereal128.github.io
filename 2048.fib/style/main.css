@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   
-  background: #001235;
+  background: #003265;
   color: #D6D1CD;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -152,7 +152,7 @@ hr {
   -ms-touch-action: none;
   touch-action: none;
   border-radius: 6px;
-  background: #0055b2;
+  background: #2d83b3;
   width: 500px;
   height: 500px;
   -webkit-box-sizing: border-box;
@@ -310,7 +310,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    
+    color: #776e65;
     background: #eee4da;
     text-align: center;
     font-weight: bold;
@@ -593,7 +593,7 @@ hr {
     -ms-touch-action: none;
     touch-action: none;
     border-radius: 6px;
-    background: #0055b2;
+    background: #2d83b3;
     width: 280px;
     height: 280px;
     -webkit-box-sizing: border-box;
