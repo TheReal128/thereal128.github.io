@@ -101,7 +101,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: #fff;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -594,7 +594,7 @@ hr {
     margin-top: 15px; }
 
   .container {
-    width: 350px;
+    width: 347.5px;
     margin: 0 auto; }
 
   .score-container, .best-container {
