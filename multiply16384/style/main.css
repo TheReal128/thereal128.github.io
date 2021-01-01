@@ -521,7 +521,7 @@ hr {
     background: #ffffff;
     box-shadow: 0 0 30px 10px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 15px; }
-  .tile.tile--3 .tile-inner {
+  .tile.tile--1 .tile-inner {
     color: #f9f6f2;
     background: #d488ff;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
@@ -852,10 +852,6 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 3px; }
   .tile.tile--5 .tile-inner {
-    color: #fff;
-    background: #000;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile--1 .tile-inner {
     color: #fff;
     background: #000;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
