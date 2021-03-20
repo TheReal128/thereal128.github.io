@@ -4,7 +4,7 @@ function getSize() {
   if (r != null) {
     return parseInt(unescape(decodeURI(r[2])));
   }
-  return 8; 
+  return 9; 
 }
 
 function getMode() { 
@@ -214,7 +214,7 @@ function changeRule(add, merge, win) {
 }
 
 function normalAdd() {
-  return Math.random() < 0.9 ? 2 : 4;
+  return Math.random() < 0.8 ? 2 : 4;
 }
 
 function normalMerge(a, b) {
@@ -255,7 +255,7 @@ function fibonacci() {
       }
       return false;
     }, 
-    function(merged) { return merged === 0.8563275; });
+    function(merged) { return merged === fib; });
 }
 
 function threes() {
@@ -278,7 +278,7 @@ function powerTwo() {
       index = 1;
     } else {
       index <<= 1;
-      if (index > 4611686018427388000) {
+      if (index > 590295810358705651712) {
         index = 0;
       }
     }
